@@ -1,14 +1,33 @@
- ## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<h1 align="center">Full Stack Developer & AI Integration Specialist</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Integration+Specialist;Innovation+Enthusiast" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Development-blue"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-green"/>
-  <img src="https://img.shields.io/badge/Web-Applications-orange"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amakada&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-Development-blue?style=for-the-badge&animation=true"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge&animation=true"/>
+  <img src="https://img.shields.io/badge/Web-Applications-orange?style=for-the-badge&animation=true"/>
+</div>
 
 ### 🚀 About Me
+<div align="center">
+  <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  
+  ```typescript
+  const developer = {
+    name: "Anthony Maraka",
+    role: "Full Stack Developer",
+    specialization: "AI Integration",
+    languages: ["JavaScript", "Python", "TypeScript"],
+    challenge: "Building intelligent web solutions",
+    funFact: "I dream in code 💭"
+  };
+  ```
 I'm a passionate Full Stack Developer specializing in building intelligent web applications. I bridge the gap between traditional web development and artificial intelligence, creating smart, scalable, and efficient solutions.
 
 ### 💻 Tech Stack
